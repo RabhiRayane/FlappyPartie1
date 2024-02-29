@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f24449c28b63b0c41acd2d3e8f079a11
+guid: 10bd660cae2c9904bb1bfe9d65588cac
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -122,43 +122,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Flappy_0
+      name: Flappy_2
       rect:
         serializedVersion: 2
-        x: 8
-        y: 30
-        width: 113
-        height: 67
+        x: 263
+        y: 29
+        width: 115
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0e4fba120cb761b429d3b8a26879d5d9
-      internalID: 1976411788
+      spriteID: d733cab98818e3450800000000000000
+      internalID: 6070431771469296509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flappy_1
+      name: Flappy_3
       rect:
         serializedVersion: 2
-        x: 131
-        y: 30
-        width: 118
-        height: 67
+        x: 386
+        y: 29
+        width: 120
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d18aba51162a06345b4db039bdc2a98c
-      internalID: 2095702514
+      spriteID: 81e79a24507846540800000000000000
+      internalID: 5000269942951083544
       vertices: []
       indices: 
       edges: []
@@ -166,7 +166,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: f680b542d81e0f9409888be508bea716
+    spriteID: 3e325be24cc14774dbf05dae471d7272
     internalID: 0
     vertices: []
     indices: 
@@ -174,10 +174,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Flappy_0: 1976411788
-      Flappy_1: 2095702514
-      Flappy_2: -2145440015
-      Flappy_3: 1094338175
+      Flappy_0: -1528581941426886678
+      Flappy_1: 7766576543926432070
+      Flappy_2: 6070431771469296509
+      Flappy_3: 5000269942951083544
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
